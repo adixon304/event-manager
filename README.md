@@ -1,0 +1,1 @@
+This is an exercise where the ruby code reads through a CSV file and executes a Google API to determine the zip code's legislator.  Then the code outputs a thank you letter from their given legislator using an ERB template and outputs to an html template.
